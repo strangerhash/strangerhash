@@ -38,9 +38,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Filament" src="https://img.shields.io/badge/-Filament-DD0031?style=flat-square&logo=livewire&logoColor=white" />
+  <img alt="LiveWire" src="https://img.shields.io/badge/-Livewire-DD0031?style=flat-square&logo=filament&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -55,7 +56,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
 
 
 ## &#x1f4c8; GitHub Stats
