@@ -102,5 +102,7 @@
 - **Tech Blogger & Meetup Speaker**: I love sharing knowledge through writing and tech meetups.
 - **Open Source Enthusiast**: Contributed to open-source projects and enjoy building communities.
 - **Personal Interests**: Cloud-native, DevOps, data science, and machine learning.
+- **Personal Interests**: Passionate Rider , camping on hills, off-roading terrains.
+
 
 Thank you for visiting my profile! 🌟
