@@ -1,114 +1,106 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Satyendra Pandey</h1>
+<p align="center">A passionate Full-Stack Developer with expertise in creating robust and scalable applications. I love to build software that offers amazing user experiences and brings ideas to life.</p>
 
-<!--
-**strangerhash/strangerhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+<div align="center">
+  
+  **Languages**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Frontend**  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Chart JS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart-dot-js&logoColor=white)
+  ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+  **Backend**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+  **Databases**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+  ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-[![Header](https://coverfiles.alphacoders.com/495/49570.png "Header")](#)
+  **DevOps & Cloud**  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI/CD-1f6feb?style=flat-square&logo=git&logoColor=white)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  **Testing Frameworks**  
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vite&logoColor=white)
+  ![Enzyme](https://img.shields.io/badge/Enzyme-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-61DAFB?style=flat-square&logo=react&logoColor=black)
+</div>
 
-My name is Satyendra Pandey and I'm a software developer/DevOps engineer. I'm from Uttar pradesh, living in Chandigarh and currently working as a Software developer in Chandigarh ,Mohali. You can find me  on [![LinkedIn][3.2]][3].
+---
 
-## 🎉 Blog & Writing
+### 👨‍💻 Experience & Skills
+- **Microservices Architecture**: Built scalable microservices and APIs with Spring Boot, Laravel, and Node.js.
+- **Testing Best Practices**: Passionate about high-quality code, including unit, integration, and acceptance testing.
+- **Cloud and DevOps**: Hands-on experience with AWS, IAM, Docker, and Kubernetes to ensure smooth deployments and scalability.
+- **Agile Methodologies**: Strong background in Agile/Scrum with a focus on iterative and collaborative development.
+- **System Design**: Expertise in system architecture, cloud deployment, performance testing, and security.
+- **Design Patterns**: Skilled in applying design patterns such as:
+  - **SOLID Principles**: For clean and maintainable code
+  - **CQRS (Command Query Responsibility Segregation)**: Efficiently manage complex data flows
+  - **DDD (Domain-Driven Design)**: For scalable domain-focused applications
+  - **MVC (Model-View-Controller)**: Organizing code structure
+  - **Singleton, Factory, Observer, Adapter**: Building reusable, modular components
 
-Apart from coding, I also maintain a blog - you can find my articles on my website  on [Medium](https://medium.com/@pandeysatyendra870) and [GeekForGeeks](https://auth.geeksforgeeks.org/user/strangerhash/articles).
+- **Database Management**: Skilled in both relational (MySQL, Oracle, DB2, PostgreSQL) and NoSQL (MongoDB) databases.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/php-PHP-green?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node%20JS-Node%20Js-green?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
- <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Filament" src="https://img.shields.io/badge/-Filament-DD0031?style=flat-square&logo=livewire&logoColor=white" />
-  <img alt="LiveWire" src="https://img.shields.io/badge/-Livewire-DD0031?style=flat-square&logo=filament&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+---
 
+### 🚀 Projects & Contributions
+- **Customer-focused Web Apps**: Developed applications used by large user bases, addressing challenges in performance, scalability, and UX.
+- **Influencer Management Platform**: Created an admin panel for managing influencer stats, content scheduling, and social media integrations.
+- **Template Management System**: Built a system for file attachments and template handling with a focus on user-friendly design.
 
-## &#x1f4c8; GitHub Stats
+---
 
-<a href="https://github.com/strangerhash">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerhash&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/strangerhash">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=strangerhash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Satyendra's's GitHub Stats" />
-</a>
-
-<!-- <a href="https://github.com/strangerhash/strangechatroom">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=strangerhash&repo=strangechatroom&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-
-   
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-
-[2]: https://github.com/strangerhash
-[3]: https://www.linkedin.com/in/satyendra-pandey-a0314b167/
-
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="bottom"> <img src="https://github-readme-stats.vercel.app/api?username=strangerhash&show_icons=true&theme=gotham" alt="Satyendra pandey | Stats" />
-
+### 📊 GitHub Stats
+<details>
+<summary>📈 View my GitHub Stats</summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=strangerhash&show_icons=true&theme=gotham" alt="Satyendra Pandey | Stats" />
+</p>
 </details>
 
+![Visitor Count](https://profile-counter.glitch.me/{strangerhash}/count.svg)
 
- ![Visitor Count](https://profile-counter.glitch.me/{strangerhash}/count.svg)
+---
 
+### 🌐 Let's Connect!
+<p align="center">
+<a href="https://www.linkedin.com/in/satyendra-pandey-a0314b167/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/strangerhash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:satyendra@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+---
 
+### 🎉 Fun Facts & Hobbies
+- **Tech Blogger & Meetup Speaker**: I love sharing knowledge through writing and tech meetups.
+- **Open Source Enthusiast**: Contributed to open-source projects and enjoy building communities.
+- **Personal Interests**: Cloud-native, DevOps, data science, and machine learning.
+
+Thank you for visiting my profile! 🌟
