@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Satyendra%20pandey&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satyendra%20pandey&fontSize=90fontAlignY=35&desc=Full%20Stack%20BlockChain%20Engineer&descAlignY=90&descAlign=50)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satyendra%20pandey&fontSize=90fontAlignY=35&desc=Full%20Stack%20BlockChain%20Engineer&descAlignY=90&descAlign=50" />
     <!-- https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Satyendra%20Pandey&fontSize=80&fontAlignY=35&desc=Full-Stack%20%26%20Blockchain%20Developer&descAlignY=51&descAlign=50" /> -->
 </div>
 
