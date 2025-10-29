@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Satyendra+Pandey;Full-Stack+%26+Blockchain+Developer;Building+the+Future+of+Web3;Creating+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Satyendra+Pandey;Full-Stack+%26+Blockchain+Developer;Building+the+Future+of+Web3;Creating+Amazing+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -92,6 +92,7 @@
 
   **Backend & APIs**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -141,8 +142,10 @@
 ## 👨‍💻 Experience & Expertise
 
 ### 🏗️ Architecture & Development
-- **Microservices Architecture**: Built scalable microservices and APIs with Spring Boot, Laravel, and Node.js
-- **Blockchain Development**: Smart contract development using Solidity, Rust, and Web3.js/Ethers.js
+- **Microservices Architecture**: Built scalable microservices and APIs with Spring Boot, Laravel, NestJS, and Node.js
+- **Layer 1 Blockchain Development**: Building high-performance blockchain infrastructure with custom consensus mechanisms
+- **Smart Contract Development**: Advanced Solidity, Rust, and Web3.js/Ethers.js for complex DeFi protocols
+- **Trading Infrastructure**: Developing ultra-low latency order matching engines and decentralized exchange protocols
 - **DeFi Applications**: Experience building decentralized finance applications, DEXs, and yield farming protocols
 - **NFT Platforms**: Created NFT marketplaces, gaming platforms, and digital asset management systems
 - **Cross-Chain Solutions**: Implemented bridge protocols and multi-chain applications
@@ -184,6 +187,8 @@
 ## 🚀 Featured Projects & Contributions
 
 ### 🌐 Web3 & Blockchain Projects
+- **Layer 1 Trading Platform**: Building a high-performance decentralized trading platform with custom blockchain infrastructure
+- **Advanced Order Matching Engine**: Developing ultra-low latency trading infrastructure with sub-millisecond execution capabilities
 - **DeFi Trading Platform**: Built a decentralized exchange with automated market making, yield farming, and liquidity provision
 - **NFT Marketplace**: Created a multi-chain NFT marketplace with minting, trading, and auction functionality
 - **Cross-Chain Bridge**: Developed a secure bridge protocol for asset transfers between Ethereum and Polygon networks
@@ -221,6 +226,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
@@ -293,16 +302,13 @@
 
 ## 🎯 Current Focus & Interests
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
-
 ### 🔥 What I'm Working On
-- **Layer 2 Solutions**: Exploring Optimism, Arbitrum, and Polygon for scalable dApps
-- **Zero-Knowledge Proofs**: Learning zk-SNARKs and zk-STARKs for privacy-preserving applications
-- **Cross-Chain Interoperability**: Building bridges between different blockchain networks
-- **AI Integration**: Combining machine learning with blockchain for intelligent DeFi protocols
-- **Sustainable Blockchain**: Researching energy-efficient consensus mechanisms
+- **Layer 1 Blockchain Development**: Building a high-performance, decentralized trading platform with custom consensus mechanisms
+- **Advanced Order Matching Engine**: Developing ultra-low latency trading infrastructure with sub-millisecond execution
+- **Decentralized Exchange Protocol**: Creating a fully on-chain DEX with advanced trading features and risk management
+- **Cross-Chain Interoperability**: Building bridges between different blockchain networks for seamless asset transfers
+- **AI Integration**: Combining machine learning with blockchain for intelligent DeFi protocols and automated trading strategies
+- **Sustainable Blockchain**: Researching energy-efficient consensus mechanisms and carbon-neutral blockchain solutions
 
 ### 🎓 Continuous Learning
 - **Advanced Solidity**: Mastering gas optimization and security best practices
