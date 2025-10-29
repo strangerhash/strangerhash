@@ -230,12 +230,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{strangerhash}/count.svg" alt="Profile Views" />
-</div>
+
 
 ---
 
