@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Passionate Full-Stack & Blockchain Developer</h3>
+  <h3>🚀 Passionate Full-Stack & Blockchain Engineer || AI Enthusiast</h3>
   <p>Building the future of decentralized applications with cutting-edge technologies. I specialize in creating robust, scalable applications that bridge traditional web development with the revolutionary world of Web3 and blockchain technology.</p>
 </div>
 
