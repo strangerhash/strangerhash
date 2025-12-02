@@ -216,22 +216,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strangerhash&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=strangerhash)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF" alt="GitHub Activity Graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strangerhash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
-
-
 
 ---
 
